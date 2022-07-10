@@ -1,0 +1,11 @@
+.section-title {
+    width: 60%;
+    position: relative;
+    font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 1.15;
+    text-align: center;
+    margin: 0 auto;
+}
